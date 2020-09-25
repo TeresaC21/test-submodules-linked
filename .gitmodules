@@ -1,0 +1,3 @@
+[submodule "static/test-submodules-two-to-link"]
+	path = static/test-submodules-two-to-link
+	url = git@github.com:TeresaC21/test-submodules-two-to-link.git
